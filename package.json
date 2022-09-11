@@ -1,7 +1,24 @@
 {
-  "name": "my-storybook",
+  "name": "rfernandezc-my-dashboard-storybook",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
+  "typings": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "homepage": "www.rfernandezc.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rubenfernandezc/storybook-for-dashboard"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -19,7 +36,8 @@
     "start": "start-storybook -p 6006",
     "build": "build-storybook",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=7280f8749bc8"
   },
   "eslintConfig": {
     "extends": [
@@ -61,7 +79,10 @@
     "@storybook/react": "^6.5.10",
     "@storybook/testing-library": "^0.0.13",
     "babel-plugin-named-exports-order": "^0.0.2",
+    "chromatic": "^6.9.0",
     "prop-types": "^15.8.1",
     "webpack": "^5.74.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "my-storybook@0.1.0"
 }
