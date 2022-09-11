@@ -76,8 +76,4 @@ https://github.com/storybookjs/storybook
 StoryShots adds automatic Jest Snapshot Testing for Storybook: [https://github.com/storybookjs/storybook/tree/next/code/addons/storyshots/storyshots-core](https://github.com/storybookjs/storybook/tree/next/code/addons/storyshots/storyshots-core)
 
 
-GH_TOKEN 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
-
-NPM_TOKEN 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
-
 
