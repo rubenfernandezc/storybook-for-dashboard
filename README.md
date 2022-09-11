@@ -45,27 +45,21 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-//=======================================================================================
-//                                                                                       
-//   ####  ######   #####   #####    ##    ##  #####    #####    #####   ##  ##        
-//  ##       ##    ##   ##  ##  ##    ##  ##   ##  ##  ##   ##  ##   ##  ## ##         
-//   ###     ##    ##   ##  #####      ####    #####   ##   ##  ##   ##  ####          
-//     ##    ##    ##   ##  ##  ##      ##     ##  ##  ##   ##  ##   ##  ## ##         
-//  ####     ##     #####   ##   ##     ##     #####    #####    #####   ##  ##        
-//                                                                                       
-//=======================================================================================
+# Install Storybook
 
-# Add Storybook Globally:
+For more information visit: [https://storybook.js.org](https://storybook.js.org)
+
+## Add Storybook Globally:
 `npm i -g @storybook/cli`
 
-# Add Storybook:
+## Add Storybook:
 `npx storybook init`
 
-# To run your Storybook, type:
+## To run your Storybook:
 
 `npm run storybook`
 
-For more information visit: [https://storybook.js.org](https://storybook.js.org)
+## mdx, controls and actions
 
 https://storybook.js.org/docs/react/writing-docs/mdx
 
@@ -73,36 +67,10 @@ https://storybook.js.org/docs/react/essentials/controls
 
 https://storybook.js.org/docs/react/essentials/actions
 
+## official repository
+
 https://github.com/storybookjs/storybook
 
+## StoryShots for Jest
+
 StoryShots adds automatic Jest Snapshot Testing for Storybook: [https://github.com/storybookjs/storybook/tree/next/code/addons/storyshots/storyshots-core](https://github.com/storybookjs/storybook/tree/next/code/addons/storyshots/storyshots-core)
-
-https://github.com/mauricedb/react-storybook-course
-http://theproblemsolver.nl/TheReactNewsletter/Subscribe
-https://twitter.com/MauriceDB
-https://github.com/mauricedb/react-storybook-course/commit/f8fad8a0ec413360ed31545d2fabda62e176a6ac
-
-https://github.com/mauricedb/react-storybook-course-v5/tree/start
-
-knobs
-
-https://github.com/mauricedb/react-storybook-course-v5/tree/master
-
-
-https://github.com/fullhdpixel/tailwind-storybook-starter
-
-
-
-
-Eliminamos los scripts de react
-
-`npm remove react-scripts`
-
-Con esto ya no podemos levantar el servidor porque eliminamos los scripts
-
-
-PS C:\Users\ruben\Documents\GitHub\front-end\story-book\story-book-fernando-herrera\01-my-storybook> cd .\storybook-static\
-PS C:\Users\ruben\Documents\GitHub\front-end\story-book\story-book-fernando-herrera\01-my-storybook\storybook-static> http-server -o
-
-
-https://www.chromatic.com/
