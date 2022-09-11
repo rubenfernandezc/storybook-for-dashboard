@@ -78,6 +78,6 @@ StoryShots adds automatic Jest Snapshot Testing for Storybook: [https://github.c
 
 GH_TOKEN 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
 
-NPM_TOKEN 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
+NPM_TOKEN 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
 
 
