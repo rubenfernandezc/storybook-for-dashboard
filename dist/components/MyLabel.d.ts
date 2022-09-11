@@ -1,6 +1,6 @@
 /// <reference types="react" />
 import './mylabel.css';
-interface MyLabelProps {
+export interface MyLabelProps {
     /**
     * Label contents
     */
@@ -26,4 +26,3 @@ interface MyLabelProps {
     allCaps: boolean;
 }
 export declare const MyLabel: ({ label, size, color, allCaps, fontColor }: MyLabelProps) => JSX.Element;
-export {};

@@ -13,6 +13,7 @@ var __assign = (this && this.__assign) || function () {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Header = void 0;
 var jsx_runtime_1 = require("react/jsx-runtime");
+// import React from 'react';
 var Button_1 = require("./Button");
 require("./header.css");
 var Header = function (_a) {

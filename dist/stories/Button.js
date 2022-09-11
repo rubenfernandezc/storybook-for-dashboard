@@ -24,6 +24,7 @@ var __rest = (this && this.__rest) || function (s, e) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.Button = void 0;
 var jsx_runtime_1 = require("react/jsx-runtime");
+// import React from 'react';
 require("./button.css");
 /**
  * Primary UI component for user interaction
