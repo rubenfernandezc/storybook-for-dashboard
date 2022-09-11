@@ -48,4 +48,6 @@ export const MyLabel = (
             { allCaps ? label.toUpperCase() : label }
         </span>
     );
-    }
+}
+
+export default MyLabel;
